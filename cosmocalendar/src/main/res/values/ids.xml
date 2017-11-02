@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="llDaysOfWeekTitlesID" type="id"/>
+    <item name="flBottomSelectionBarID" type="id"/>
+    <item name="rvMultipleSelectedListID" type="id"/>
+    <item name="rvMonthsID" type="id"/>
+
+</resources>
